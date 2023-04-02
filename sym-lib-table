@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "din41612_03x32_abc")(type "Legacy")(uri "${KIPRJMOD}/din41612_03x32_abc.lib")(options "")(descr ""))
+  (lib (name "vhd_if_c9d-rescue")(type "KiCad")(uri "${KIPRJMOD}/vhd_if_c9d-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "HC-9x cart-rescue")(type "KiCad")(uri "${KIPRJMOD}/HC-9x cart-rescue.kicad_sym")(options "")(descr ""))
+)
